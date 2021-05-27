@@ -3,6 +3,8 @@ This is a 2d esolang I made for fun, it is Queue based, it is hell
 
 it also has multi threading by way of creating multiple pointers
 
+the playfield scales based on the input (or at least it should, didn't test, didn't care)
+
 # Syntax
 - `><V^` are used to move the instruction pointer around
 - `.>` creates an instruction pointer moving to the right
