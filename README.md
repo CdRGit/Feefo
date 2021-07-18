@@ -45,3 +45,5 @@ the playfield scales based on the input (or at least it should, didn't test, did
 - inside a string you can escape values by using \, only `\"`, `\0`, `\n`, `\r` and `\a` are permitted because I could not be bothered to add more
 
 - if a character is not recognized and the pointer is not in string mode, the program should throw
+
+- `x` kills the pointer
